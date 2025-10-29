@@ -1,8 +1,8 @@
 # 👋 Olá, me chamo Erik Sá!
 
-### 🚀 Estudante de Engenharia de Software | Desenvolvedor de Automação (RPA)
+### 📚 Estudante de Engenharia de Software | Desenvolvedor de Automação (RPA)
 
-Sou um estudante de Engenharia de Software focado em otimização de processos e Automação de Processos Robóticos (RPA). Minha principal expertise é transformar fluxos de trabalho manuais e complexos em soluções de software eficientes, utilizando **Python** e **Selenium**.
+Sou um estudante de Engenharia de Software focado em otimização de processos e Automação de Processos Robóticos (RPA).<br> Minha principal expertise é transformar fluxos de trabalho manuais e complexos em soluções de software eficientes, utilizando **Python** e **Selenium**.
 
 Tenho experiência prática com desenvolvimento de software comprovada na **FedEx**, onde desenvolvi e implementei aplicações de automação críticas para processos com grandes clientes, incluindo automação de documentos com OCR e otimização de consultas web.
 
@@ -45,8 +45,7 @@ Além do backend e automação, também possuo habilidades em desenvolvimento we
 ### 💻 Meus Projetos
 
 #### 🤖 Automação & RPA
-
-* **[Automação Donwload de Documentos com OCR (Auto Doc)](https://github.com/eriiksa/Auto_doc)**
+* **[Automação Download de Documentos com OCR (Auto Doc)](https://github.com/eriiksa/Auto_doc)**
 <br>**Descrição:** Aplicação RPA que automatiza a consulta em múltiplos sistemas web (com 3 autenticações diferentes), realiza o download de documentos e usa **Tesseract OCR** para ler os dados (como NFs) e renomear os arquivos automaticamente.
 <br>**Tecnologias:** `Python`, `Selenium`, `Tesseract (OCR)`.
 
