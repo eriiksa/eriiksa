@@ -13,32 +13,32 @@ Além do backend e automação, também possuo habilidades em desenvolvimento we
 ### 🛠️ Minhas Principais Habilidades
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  </a>
-  <a href="https://github.com/tesseract-ocr/tesseract" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Tesseract_OCR-FF6F00?style=for-the-badge&logo=tesseract&logoColor=white" alt="Tesseract OCR" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
+  </a>
+  <a href="https://www.selenium.dev" target="_blank"> 
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /> 
+  </a>
+  <a href="https://github.com/tesseract-ocr/tesseract" target="_blank"> 
+    <img src="https://img.shields.io/badge/Tesseract_OCR-FF6F00?style=for-the-badge&logo=tesseract&logoColor=white" alt="Tesseract OCR" /> 
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> 
+  </a>
 
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
+  </a>
+  <a href="https://github.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
+  </a>
 </p>
 
 ---
