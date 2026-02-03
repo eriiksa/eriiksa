@@ -6,7 +6,7 @@ Sou um estudante de Engenharia de Software focado em otimização de processos e
 
 Tenho experiência prática com desenvolvimento de software comprovada na **FedEx**, onde desenvolvi e implementei aplicações de automação críticas para processos com grandes clientes, incluindo automação de documentos com OCR e otimização de consultas web.
 
-Além do backend e automação, também possuo habilidades em desenvolvimento web front-end, incluindo **JavaScript**, **HTML**, **CSS** e **Tailwindcss**.
+Além do backend e automação, também possuo habilidades em desenvolvimento web front-end, incluindo **JavaScript**, **HTML**, **CSS**.
 
 ---
 
@@ -29,9 +29,7 @@ Além do backend e automação, também possuo habilidades em desenvolvimento we
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
   </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> 
-  </a>
+  <a href="
 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
